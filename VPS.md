@@ -1,4 +1,7 @@
 ## What is a VPS
+
+![vps](https://github.com/GofN1/VPS/assets/53989917/99804dbb-321a-4191-8781-58a9025d7380)
+
 VPS(Virtual Private Server) can be called as your own dedicated virtual machine in the cloud.
 
 ## Benefits of a VPS?
